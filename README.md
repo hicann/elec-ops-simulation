@@ -71,4 +71,4 @@
 
 ## 📄 许可证
 
-本项目基于 [Apache License 2.0]() 开源，基于 **CANN OpenSoftware 2.0**。
+本项目基于 [Apache License 2.0]() 开源。
